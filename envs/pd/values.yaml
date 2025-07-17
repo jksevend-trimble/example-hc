@@ -1,0 +1,3 @@
+tp-java-app:
+  image:
+    tag: 1.0.0
